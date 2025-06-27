@@ -58,17 +58,17 @@ To run this project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/Credit-Scoring-Model.git
+    git clone https://github.com/hassaan-munir/Credit-Scoring-Model.git
     cd Credit-Scoring-Model
     ```
-    *(Replace `YourUsername` with your actual GitHub username and `Credit-Scoring-Model` with your repo name if different)*
+    
 2.  **Download the dataset:** Ensure the `credit_risk_dataset.csv` file is in the same directory as the Jupyter Notebook.
 3.  **Install required libraries:**
     ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn
     ```
 4.  **Open the Jupyter Notebook:**
-    Launch Jupyter Notebook (or open in VS Code with Jupyter extension) and open the `[Your_Notebook_Name].ipynb` file (e.g., `credit_scoring_model.ipynb`).
+    Launch Jupyter Notebook (or open in VS Code with Jupyter extension) and open the `Credit Scoring Model.ipynb` file.
 5.  **Run all cells:** Execute all cells in the notebook sequentially to preprocess data, train models, and evaluate their performance.
 
 ## Internship
