@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves building a Machine Learning model to assess credit risk based on various financial attributes. The primary goal is to predict the likelihood of a loan default, enabling financial institutions to make more informed lending decisions. This project was completed as part of the **CodeAlpha Machine Learning Internship**.
+The development of a Machine Learning model, which would help to evaluate credit risk on the basis of several financial characteristics, is the idea behind this project. The ultimate outcome is to predict the risk of a loan going bad, where the financial institutions can make a more informed lending decision. This project was done as an exercise of the **CodeAlpha Machine Learning Internship**.
 
 ## Dataset
 
