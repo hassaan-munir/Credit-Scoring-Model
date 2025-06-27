@@ -41,7 +41,7 @@ The development process followed a standard Machine Learning pipeline:
 
 ## Key Results
 
-The **Random Forest Classifier** consistently demonstrated the most robust performance among the models tested. It achieved an accuracy of approximately **[92%]** on the test set, showing strong capability in predicting loan default status. The model effectively balanced precision and recall across both classes.
+Of all the tested models the **Random Forest Classifier** performed the most robust. A test set accuracy of around **[92%]** was attained demonstrating a high potential in the classification of the loan default status. The model successfully achieved a good balance of both precision and the recall per class.
 
 ## Technologies Used
 
