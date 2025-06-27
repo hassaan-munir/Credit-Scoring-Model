@@ -77,5 +77,5 @@ This project was completed as a core task during my **Machine Learning Internshi
 
 ## Connect with Me
 
-   **Muhammad Hassaan Munir** (https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/)
+   **Muhammad Hassaan Munir** ( Linkedin - https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/)
 
