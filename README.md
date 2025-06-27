@@ -41,7 +41,7 @@ The development process followed a standard Machine Learning pipeline:
 
 ## Key Results
 
-The **Random Forest Classifier** consistently demonstrated the most robust performance among the models tested. It achieved an accuracy of approximately **[Apni best accuracy yahan likho, maslan 85-90%]** on the test set, showing strong capability in predicting loan default status. The model effectively balanced precision and recall across both classes.
+The **Random Forest Classifier** consistently demonstrated the most robust performance among the models tested. It achieved an accuracy of approximately **[92%]** on the test set, showing strong capability in predicting loan default status. The model effectively balanced precision and recall across both classes.
 
 ## Technologies Used
 
