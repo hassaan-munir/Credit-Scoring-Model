@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The development of a Machine Learning model, which would help to evaluate credit risk on the basis of several financial characteristics, is the idea behind this project. The ultimate outcome is to predict the risk of a loan going bad, where the financial institutions can make a more informed lending decision. This project was done as an exercise of the **CodeAlpha Machine Learning Internship**.
+The development of a Machine Learning model, which would help to evaluate credit risk on the basis of several financial characteristics, is the idea behind this project. The ultimate outcome is to predict the risk of a loan going bad, where the financial institutions can make a more informed lending decision.
 
 ## Dataset
 
@@ -71,11 +71,6 @@ To run this project on your local machine:
     Launch Jupyter Notebook (or open in VS Code with Jupyter extension) and open the `Credit Scoring Model.ipynb` file.
 5.  **Run all cells:** Execute all cells in the notebook sequentially to preprocess data, train models, and evaluate their performance.
 
-## Internship
-
-This project was completed as a core task during my **Machine Learning Internship at CodeAlpha**.
-
 ## Connect with Me
 
-   **Muhammad Hassaan Munir** ( Linkedin - https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/)
-
+   **Muhammad Hassaan Munir** (LinkedIn - https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/)
