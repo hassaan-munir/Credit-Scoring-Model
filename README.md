@@ -73,4 +73,5 @@ To run this project on your local machine:
 
 ## Connect with Me
 
-   **Muhammad Hassaan Munir** (LinkedIn - https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/)
+**Muhammad Hassaan Munir** [LinkedIn](https://www.linkedin.com/in/muhammad-hassaan-munir-79b5b2327/)
+
