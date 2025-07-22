@@ -70,6 +70,24 @@ To run this project on your local machine:
 4.  **Open the Jupyter Notebook:**
     Launch Jupyter Notebook (or open in VS Code with Jupyter extension) and open the `Credit Scoring Model.ipynb` file.
 5.  **Run all cells:** Execute all cells in the notebook sequentially to preprocess data, train models, and evaluate their performance.
+   
+## Streamlit Web App (Optional GUI)
+
+If you want to interact with the model through a simple web interface, run the Streamlit app:
+
+1. **Install Streamlit** (if not already installed):
+    ```bash
+    pip install streamlit
+    ```
+
+2. **Run the app**:
+    ```bash
+    streamlit run app.py
+    ```
+
+3. The browser will open with an interactive form where you can enter input values and get credit risk predictions.
+
+> Make sure the file `app.py` exists in the same directory with the correct model loading and prediction logic.
 
 ## Connect with Me
 
